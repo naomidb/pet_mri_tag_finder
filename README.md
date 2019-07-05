@@ -1,3 +1,5 @@
+Note: If you are using ISOs, this program must be run on MacOS or Linux.
+
 Running this program is very simple.
 `python pet_mri_fill_in.py <path_to_folder>`
 
